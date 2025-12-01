@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "熱愛発覚中",
+  "base_artist": "Sheena Ringo、Yasutaka Nakata",
+  "createdAt": "2025-12-01T14:27:31.504863Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "熱愛発覚中",
+      "artist": "Sheena Ringo feat. Yasutaka Nakata",
+      "has_synced": true,
+      "path": "select/01_熱愛発覚中_Sheena_Ringo_feat._Yasutaka_Nakata.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "熱愛発覚中",
+      "artist": "椎名林檎と中田ヤスタカ",
+      "has_synced": true,
+      "path": "select/02_熱愛発覚中_椎名林檎と中田ヤスタカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "熱愛発覚中",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/03_熱愛発覚中_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "熱愛発覚中",
+      "artist": "椎名林檎と中田ヤスタカ(CAPSULE)",
+      "has_synced": false,
+      "path": "select/pl_01_熱愛発覚中_椎名林檎と中田ヤスタカ(CAPSULE).txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "熱愛発覚中",
+      "artist": "椎名林檎と中田ヤスタカ(CAPSULE)",
+      "has_synced": false,
+      "path": "select/pl_02_熱愛発覚中_椎名林檎と中田ヤスタカ(CAPSULE).txt"
+    }
+  ]
+}
